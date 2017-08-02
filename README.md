@@ -1,0 +1,2 @@
+# applewatch_connect
+AppleWatchとiPhoneの間でメッセージを送るサンプル
