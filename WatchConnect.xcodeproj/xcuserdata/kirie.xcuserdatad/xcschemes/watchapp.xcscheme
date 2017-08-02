@@ -14,6 +14,20 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
+               BlueprintIdentifier = "0BC275AB1F314DBC00001239"
+               BuildableName = "watchapp.app"
+               BlueprintName = "watchapp"
+               ReferencedContainer = "container:WatchConnect.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
                BlueprintIdentifier = "0B759E7B1F305160003D1D02"
                BuildableName = "WatchConnect.app"
                BlueprintName = "WatchConnect"
@@ -28,33 +42,13 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "0B759E8F1F305160003D1D02"
-               BuildableName = "WatchConnectTests.xctest"
-               BlueprintName = "WatchConnectTests"
-               ReferencedContainer = "container:WatchConnect.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "0B759E9A1F305160003D1D02"
-               BuildableName = "WatchConnectUITests.xctest"
-               BlueprintName = "WatchConnectUITests"
-               ReferencedContainer = "container:WatchConnect.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "0B759E7B1F305160003D1D02"
-            BuildableName = "WatchConnect.app"
-            BlueprintName = "WatchConnect"
+            BlueprintIdentifier = "0BC275AB1F314DBC00001239"
+            BuildableName = "watchapp.app"
+            BlueprintName = "watchapp"
             ReferencedContainer = "container:WatchConnect.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -71,16 +65,27 @@
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
       allowLocationSimulation = "YES">
-      <BuildableProductRunnable
-         runnableDebuggingMode = "0">
+      <RemoteRunnable
+         runnableDebuggingMode = "2"
+         BundleIdentifier = "com.apple.Carousel"
+         RemotePath = "/WatchConnect">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "0B759E7B1F305160003D1D02"
-            BuildableName = "WatchConnect.app"
-            BlueprintName = "WatchConnect"
+            BlueprintIdentifier = "0BC275AB1F314DBC00001239"
+            BuildableName = "watchapp.app"
+            BlueprintName = "watchapp"
             ReferencedContainer = "container:WatchConnect.xcodeproj">
          </BuildableReference>
-      </BuildableProductRunnable>
+      </RemoteRunnable>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "0BC275AB1F314DBC00001239"
+            BuildableName = "watchapp.app"
+            BlueprintName = "watchapp"
+            ReferencedContainer = "container:WatchConnect.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>
@@ -90,16 +95,27 @@
       savedToolIdentifier = ""
       useCustomWorkingDirectory = "NO"
       debugDocumentVersioning = "YES">
-      <BuildableProductRunnable
-         runnableDebuggingMode = "0">
+      <RemoteRunnable
+         runnableDebuggingMode = "2"
+         BundleIdentifier = "com.apple.Carousel"
+         RemotePath = "/WatchConnect">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "0B759E7B1F305160003D1D02"
-            BuildableName = "WatchConnect.app"
-            BlueprintName = "WatchConnect"
+            BlueprintIdentifier = "0BC275AB1F314DBC00001239"
+            BuildableName = "watchapp.app"
+            BlueprintName = "watchapp"
             ReferencedContainer = "container:WatchConnect.xcodeproj">
          </BuildableReference>
-      </BuildableProductRunnable>
+      </RemoteRunnable>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "0BC275AB1F314DBC00001239"
+            BuildableName = "watchapp.app"
+            BlueprintName = "watchapp"
+            ReferencedContainer = "container:WatchConnect.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">

@@ -9,6 +9,16 @@
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
+		<key>watchapp (Notification).xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>watchapp.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
@@ -23,6 +33,11 @@
 			<true/>
 		</dict>
 		<key>0B759E9A1F305160003D1D02</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>0BC275AB1F314DBC00001239</key>
 		<dict>
 			<key>primary</key>
 			<true/>
